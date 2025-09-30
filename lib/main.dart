@@ -12,7 +12,6 @@ class Readify
   const Readify
 ({super.key});
 
-
   @override
   Widget build(BuildContext context) {
     return const GetMaterialApp(
